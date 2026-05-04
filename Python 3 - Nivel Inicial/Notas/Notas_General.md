@@ -9,10 +9,13 @@ Ing. Juan Barreto
 
 ## Local Repo (Linux): 
 >/home/kupuka/PycharmProjects/python_diplomatura_utn_26/
+
 ##############################################################################
+
 
 ## Python Versión recomendada
 Python 3.11
+
 
 ## Links Utiles
 Diplomatura en Microcontroladores (usa python para domótica, arduíno etc. dada en UTN por el mismo profe)
