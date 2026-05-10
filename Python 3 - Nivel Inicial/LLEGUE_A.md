@@ -1,5 +1,5 @@
 ##############################################################################
 LLEGUE A:
 
-TERMINADO | | UNIDAD 2 -  Ejercicios Terminado
+HACER | | UNIDAD 2 -  MATERIAL ADICIONAL | https://cursos.utnba.centrodeelearning.com/mod/book/view.php?id=526239
 
