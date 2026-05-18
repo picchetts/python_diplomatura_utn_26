@@ -14,4 +14,4 @@ EMPEZAR | 2. bluegriffon | [[https://cursos.utnba.centrodeelearning.com/mod/book
 ##############################################################################
 UNIDAD 3
 
-EMPEZAR | Tipos de datos II | 4. datetime | https://cursos.utnba.centrodeelearning.com/mod/book/view.php?id=526240&chapterid=166458
+EMPEZAR | Tipos de datos II | 7. Funciones | https://cursos.utnba.centrodeelearning.com/mod/book/view.php?id=526240&chapterid=166461
