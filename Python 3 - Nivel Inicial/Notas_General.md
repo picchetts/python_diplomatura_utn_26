@@ -18,6 +18,8 @@ Python 3.11
 
 
 ## Links Utiles
+-Libro Head First Python Oreilly (A Brain Frienly Guide)
+
 Diplomatura en Microcontroladores (usa python para domótica, arduíno etc. dada en UTN por el mismo profe)
 Le sigue Diplomatura en PCB (plaquetas más pro que arduinosource .venv)
 
