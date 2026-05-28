@@ -5,7 +5,7 @@
 ##############################################################################
 MODULO 2 - UNIDAD 1 GUI - Uso de Interfaz gráfica
 
-TERMINADO | 2. Maquetación | https://cursos.utnba.centrodeelearning.com/mod/book/view.php?id=526267&chapterid=166468
+EMPEZAR | 2.3. Menú | https://cursos.utnba.centrodeelearning.com/mod/book/view.php?id=526267&chapterid=166471
 
 
 
